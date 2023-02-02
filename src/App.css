@@ -1,0 +1,50 @@
+body{
+  width: 1300px;
+  margin-top: 120px;
+  height: 800px;
+  position: relative;
+  background: radial-gradient(at top, #ebf3f3, #A7CECC);
+  background-repeat: no-repeat;
+}
+.block{
+margin: auto;
+width: 400px;
+height: 450px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-image: url(img/1.jpg);
+
+}
+.H1{
+  text-align: center;
+  color: azure;
+  justify-content: center;
+}
+.form{
+  width: 500px;
+  height: 250px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+  margin-left: 858px;
+  position: absolute;
+  background-color: radial-gradient(at top, #FEFFFF, #A7CECC);
+}
+.weather{
+  margin-left: 940px;
+  position: absolute;
+  margin-top: -300px;
+  color: #1f2020;
+}
+.submit{
+  background: radial-gradient(at top, #d5f7f7, #84c7c4);
+  padding: 5px 10px 5px 10px;
+  border-radius: 10px;
+  
+}
+.input {
+  border-radius: 10px;
+  background-color: Aqua;
+  border-radius: 10px;
+}
